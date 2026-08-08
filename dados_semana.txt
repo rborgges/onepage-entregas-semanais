@@ -1,0 +1,18 @@
+EQUIPE: REDES CORE II
+PERIODO: 04/08 a 08/08/2026
+RESPONSAVEL: ROBERTO HENRIQUE
+
+ENTREGAS:
+Substituição dos Switches Core Corporativo | Marcio Ianni | Concluído | EM PRODUÇÃO desde SEXTA-FEIRA
+Substituição dos appliances Infoblox em EOL  | Jennyfer | Em andamento | 80% concluído
+Dashboard com os indicadores da Area | Jennyfer | Em andamento | 70% concluido
+Automação de criação de registros de DNS | Leticia | Concluído | Entregue na terça
+
+DESTAQUES:
+Atualização do ambiente de Firewall para R82 em 90%
+Lançamento da campanha X superou a meta em 20%
+Novo processo de onboarding reduziu tickets de suporte
+
+RISCOS:
+Atraso da entregas dos appliances F5 fisicos pode impactar a conclusão do projeto nesse ano de 2026
+Precisamos de mais 1 dev para a sprint que vem
